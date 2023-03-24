@@ -43,13 +43,13 @@ Software Chicken是一个用于个人展示、分享和记录个人经验、观�
 - 日志管理，包括对异常日志的增删查和操作日志的增删查。
 
 ### Project WBS:
-![WBS图](./pictures/WBS.png "WBS")
+<img src="./pictures/WBS.png" width="2000px" alt="WBS图">
 
 ### Project Progress Estimation:
-![PE图](./pictures/Progress_Estimation.png "PE")
+<img src="./pictures/Progress_Estimation.png" width="500px" alt="PE图">
 
 ### Event Map:
-![EM图](./pictures/Event_Map.jpg "EW")
+<img src="./pictures/Event_Map.jpg" width="500px" alt="EW图">
 
 ### Project Gantt Chart:
-![甘特图](./pictures/项目甘特图.png "项目开发甘特图")
+<img src="./pictures/项目甘特图.png" width="2000px" alt="甘特图">
