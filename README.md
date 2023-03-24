@@ -42,8 +42,14 @@ Software Chicken是一个用于个人展示、分享和记录个人经验、观�
 - 系统管理，包括对网站信息的编辑、定时任务的管理、友链的增删改查和网站简介的管理。
 - 日志管理，包括对异常日志的增删查和操作日志的增删查。
 
-### Project WBS：
+### Project WBS:
 ![WBS图](./pictures/WBS.png "WBS")
 
-### Project Gantt Chart：
+### Project Progress Estimation:
+![PE图](./pictures/Progress Estimation.png "PE")
+
+### Event Map:
+![EM图](./pictures/Event Map.png EW")
+
+### Project Gantt Chart:
 ![甘特图](./pictures/项目甘特图.png "项目开发甘特图")
