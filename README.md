@@ -49,7 +49,7 @@ Software Chicken是一个用于个人展示、分享和记录个人经验、观�
 ![PE图](./pictures/Progress_Estimation.png "PE")
 
 ### Event Map:
-![EM图](./pictures/Event_Map.jpg EW")
+![EM图](./pictures/Event_Map.jpg "EW")
 
 ### Project Gantt Chart:
 ![甘特图](./pictures/项目甘特图.png "项目开发甘特图")
